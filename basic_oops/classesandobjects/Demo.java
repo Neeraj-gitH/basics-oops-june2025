@@ -5,7 +5,7 @@ public class Demo {
     public static int pqr=500;
 
     public void demo1(){
-        System.out.println("DEMO1  non-static variablee");
+        System.out.println("DEMO1  non-static variable");
     }
 
     public static void demo2(){
